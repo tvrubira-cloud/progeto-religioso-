@@ -47,12 +47,12 @@ body * {
 }
 
 #container {
-  width: 360px;
-
+  width: 100%;
+max-width: 580px;
 
   /* comando para alinhar para o meio */
 
-  margin: auto;
+  /* margin: auto;*/
   /* comando relogio aplica nos 4 cantos margen */
 
   margin: 56px auto 0px;
