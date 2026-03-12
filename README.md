@@ -37,7 +37,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 Progeto foi alterado por mim Guaraci Rubira ma agradço a DevLinks e maykbrito por fornecer esse layout para meu progeto
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online]( https://tvrubira-cloud.github.io/progeto-religioso-/)
 
 
 ## 🔖 Layout
