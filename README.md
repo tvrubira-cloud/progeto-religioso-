@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Progeto foi alterado por mim Guaraci Rubira ma agradço a maykbrito por fornecer esse layout para meu progeto
 
-- [Acesse o projeto finalizado, online]( https://tvrubira-cloud.github.io/progeto-religioso-/)
+- [Acesse o projeto finalizado, online](  https://tvrubira-cloud.github.io/progeto-religioso-/)
 
 
 ## 🔖 Layout
