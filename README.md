@@ -1,8 +1,8 @@
 <h1 align="center"> Progeto Leão Religioso </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido por Guaraci rubira para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+ promovido por Guaraci rubira cartão de visitas com tecnologias WEB. <br/>
+<a href="https://github.com/tvrubira-cloud/progeto-religioso-.git">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+ cartão de visitas online.
 
-Progeto foi alterado por mim Guaraci Rubira ma agradço a DevLinks e maykbrito por fornecer esse layout para meu progeto
+Progeto foi alterado por mim Guaraci Rubira ma agradço a maykbrito por fornecer esse layout para meu progeto
 
 - [Acesse o projeto finalizado, online]( https://tvrubira-cloud.github.io/progeto-religioso-/)
 
